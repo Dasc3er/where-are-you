@@ -6,3 +6,5 @@ lib/PHPAPI/db.sqlite
 vendor
 composer.lock
 composer.phar
+pubspec.yaml
+pubspec.lock
